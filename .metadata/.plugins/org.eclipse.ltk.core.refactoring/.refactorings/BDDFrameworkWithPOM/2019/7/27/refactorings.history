@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;BDDFrameworkWithPOM&apos;&#x0D;&#x0A;- Original project: &apos;BDDFrameworkWithPOM&apos;&#x0D;&#x0A;- Original element: &apos;BDDFrameworkWithPOM/src/test/java/BDDFrameworkWithPom.BDDFrameworkWithPOM&apos;" description="Delete element" element1="/src\/test\/java&lt;BDDFrameworkWithPom.BDDFrameworkWithPOM" element2="/src\/test\/java&lt;BDDFrameworkWithPom" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1562432015223" subPackages="false" version="1.0"/>
+</session>
